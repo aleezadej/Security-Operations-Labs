@@ -1,2 +1,9 @@
-# security-operations-labs
-Hands-on security operations labs from the Google Cybersecurity Certificate on incident response, network analysis, risk assessment, and SYN flood detection.
+# Security Operations Labs
+
+This repository is a portfolio of hands-on technical work from the **Google Cybersecurity Certificate**. It contains labs demonstrating incident response, network analysis, and risks assessment skills.
+
+## Core Skills
+
+## Labs
+
+## What I learned
