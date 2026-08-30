@@ -15,4 +15,4 @@ An internal security audit was conducted for Botium Toys, a small & fictional U.
 - Compliance evaluation
 
 ## Deliverable
-[controls-compliance-checklist.md](./controls-compliance-checklist.md)
+[Controls-Compliance-Checklist.md](./Controls-Compliance-Checklist.md)
