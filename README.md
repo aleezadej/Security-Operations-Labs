@@ -5,5 +5,6 @@ This repository is a portfolio of hands-on technical work from the **Google Cybe
 ## Core Skills
 
 ## Labs
+- - [Botium Toys Security Audit](./botium-toys-security-audit/)
 
 ## What I learned
