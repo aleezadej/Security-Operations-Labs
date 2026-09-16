@@ -15,4 +15,4 @@ Investigated network traffic logs following reported website connectivity failur
 - Incident documentation
 
 ## Deliverable
-[DNS-Connectivity-Incident-Report.md](./DNS-Connectivity-Incident-Report.md)
+[Network-Analysis-Incident-Report.md](./Network-Analysis-Incident-Report.md)
